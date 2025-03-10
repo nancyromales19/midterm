@@ -1,4 +1,20 @@
-/* Delete button styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: bisque;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.container {
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    width: 300px;
+}
+
 button.delete {
     background-color: #ff4d4d;
     color: white;
@@ -13,7 +29,7 @@ button.delete {
     background-color: #e60000;
   }
   
-  /* Update button styling */
+
   button.update {
     background-color: #4c8bf5;
     color: white;
