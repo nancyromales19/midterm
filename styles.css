@@ -1,0 +1,30 @@
+/* Delete button styling */
+button.delete {
+    background-color: #ff4d4d;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  button.delete:hover {
+    background-color: #e60000;
+  }
+  
+  /* Update button styling */
+  button.update {
+    background-color: #4c8bf5;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 4px;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  button.update:hover {
+    background-color: #3b73cc;
+  }
+  
